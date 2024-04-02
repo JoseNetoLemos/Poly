@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1710973804 source:c:\users\josev\desktop\dozero\main.cpp
+
+1710990751 source:c:\users\josev\desktop\dozero\poly.cpp
+	"Poly.h"
+	<iostream>
+
+1710990813 c:\users\josev\desktop\dozero\poly.h
+	<iostream>
+
+1710980546 source:c:\users\josev\desktop\dozero\teste1.cpp
+	<iostream>
+	<locale>
+	"Poly.h"
+
+1710990643 source:c:\users\josev\desktop\dozero\teste2.cpp
+	<iostream>
+	<string>
+	<cmath>
+	"Poly.h"
+

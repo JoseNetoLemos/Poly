@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1711902956 source:c:\users\josev\desktop\dozero\poly_calculadora_completa\poly_calculadora_completa\poly.cpp
+	"Poly.h"
+	<algorithm>
+
+1711898669 c:\users\josev\desktop\dozero\poly_calculadora_completa\poly_calculadora_completa\poly.h
+	<iostream>
+	<fstream>
+	<vector>
+	<utility>
+	<initializer_list>
+
+1711899040 source:c:\users\josev\desktop\dozero\poly_calculadora_completa\poly_calculadora_completa\poly_calculadora_completa.cpp
+	<iostream>
+	<string>
+	"Poly.h"
+
